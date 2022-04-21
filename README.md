@@ -1,10 +1,9 @@
-## Hi, I'm Sid!
+## hey, i'm sid!
 
-#### About Me!
-I am a `Software Engineer` from Silicon Valley that is passionate about creating unique user experiences.\
-Feel free to visit my portfolio to learn more about me [https://sid.fyi](https://sid.fyi)!
+#### about
+i am a `full stack engineer` from silicon valley. visit my portfolio to learn more about me [https://sid.fyi](https://sid.fyi)!
 
-#### Say Hello!
-Email: [hi@sid.fyi](mailto:hi@sid.fyi)\
-Twitter: [@shift4id](https://twitter.com/shift4id)\
-LinkedIn: [Siddharth Adusumelli](https://www.linkedin.com/in/sid-a)
+#### contact
+email: [hi@sid.fyi](mailto:hi@sid.fyi)\
+twitter: [@shift4id](https://twitter.com/shift4id)\
+linkedin: [Siddharth Adusumelli](https://www.linkedin.com/in/sid-a)
